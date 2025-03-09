@@ -6,6 +6,16 @@ modified: '2021-10-23T20:33:03.104Z'
 
 # ReadME
 
-Notes from Jason Dion's Udemy CYSA+ course
+Collection of notes from various courses
 
-Also see https://github.com/ReefMeeter/CySA#readme for an amazing set of notes taken from CompTIA CySA+ Study Guide: Exam CS0-001 by Mike Chapple & David Seidl. Big shoutout to ReefMeeter - I found their content extremely helpful in studying for this cert.
+Pentest:
+to be updated
+
+Cyber:
+to be updated
+
+JHU:
+EN.6605.201.82.SP25 (Intro to Programming w/ Java)
+- index:
+AS.110.105.88.SP25 (Precalculus)
+- index:
